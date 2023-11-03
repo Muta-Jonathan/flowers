@@ -62,7 +62,8 @@ body {
     linear-gradient(90deg, rgb(7, 107, 42), rgb(240, 240, 240));
 }
 
-.night h1 {
+.night h1,
+h3 {
   text-align: center;
   color: white;
   margin-top: 2%;
